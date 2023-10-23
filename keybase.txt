@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dreamscheme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dreamscheme.github.io
+  * I am dreamscheme (https://keybase.io/dreamscheme) on keybase.
+  * I have a public key ASC4Eid0-LApkto8AUdslzwDUwzWEqXM-beuLTWucK5yjQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b8122774f8b02992da3c01476c973c03530cd612a5ccf9b7ae2d35ae70ae728d0a",
+      "host": "keybase.io",
+      "kid": "0120b8122774f8b02992da3c01476c973c03530cd612a5ccf9b7ae2d35ae70ae728d0a",
+      "uid": "6e0c8ffc9a384f270a90131e2455e719",
+      "username": "dreamscheme"
+    },
+    "merkle_root": {
+      "ctime": 1695687177,
+      "hash": "069b47ae1031ed5e4de3f686b1d15454ff0d23a2dea44832a6fc3cd9ed5491334d1e195ea4439065caac6d8069139b80f7471902f76db0809758ea0b49134d5e",
+      "hash_meta": "572f4131135457bd34f1b50ff2342a328ee33590fdfd4bceb476b96704752deb",
+      "seqno": 24961664
+    },
+    "service": {
+      "entropy": "A4tduVD0uW8XpgvQHgMu8bI/",
+      "hostname": "dreamscheme.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.2"
+  },
+  "ctime": 1695687228,
+  "expire_in": 504576000,
+  "prev": "008c6b90a0fa2ab630c18907625df5d93175ba8415b857149664bbd36f4b9df6",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguBIndPiwKZLaPAFHbJc8A1MM1hKlzPm3ri01rnCuco0Kp3BheWxvYWTESpcCDsQgAIxrkKD6KrYwwYkHYl312TF1uoQVuFcUlmS7029LnfbEIGTX47SIe2sqI8GGtFw/a+oUUpwK4Xns3jCi3FbOEeJTAgHCo3NpZ8RAkw5cYsgIDlJJWQWWmoAWdLzUZDYQxnlrUz31Dg6nNnRR9Hr7ZEUZbaYNoa3bbVlcLbS5D2g6kZO/x4CS2B7sC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKPYZ7Mhd8U30whxJZnyPMawjKlc9jilH5d+dzh7E0jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dreamscheme
+
+==================================================================
